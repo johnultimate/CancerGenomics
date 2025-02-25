@@ -1,5 +1,17 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# Ignore Jekyll auto-generated files & caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+vendor/
+
+# Ignore Ruby dependencies (Jekyll)
+Gemfile.lock
+
+# Ignore Conda environment cache
+envs/
+
+# Ignore large datasets (optional, modify if needed)
+data/*.gz
+data/*.vcf
+data/*.bam
