@@ -16,7 +16,7 @@ Welcome to a **Cancer Genomics Open-Source Research Project**, where we're analy
 4️⃣ **Publishing findings as an open research paper**  
 
 ## 📂 How to Use This Repository
-- Research projects are documented on [our Jekyll site](https://johnultimate.github.com/CancerGenomics)
+- Research projects are documented on [our Jekyll site](https://github.com/johnultimate/CancerGenomics/blob/main/setup-guide.md)
 - Jupyter Notebooks contain **code for data analysis**
 - Markdown files provide **step-by-step guides**  
 
