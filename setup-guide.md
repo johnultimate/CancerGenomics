@@ -124,7 +124,7 @@ CancerGenomics/
 
 ## **🔄 Step 6: Create Research Paper Draft**
 
-### **6.1 Create **``** for Homepage**
+### **6.1 Create `index.md` for Homepage**
 
 ```bash
 nano index.md
@@ -147,7 +147,7 @@ Welcome to the **Open-Source Cancer Genomics Project**. This site documents bioi
 - [Cancer Genomics Research Paper](/research-paper)
 ```
 
-### **6.2 Create Research Paper File (**``**)**
+### **6.2 Create Research Paper File (`_posts/research-paper.md`)**
 
 ```bash
 nano _posts/research-paper.md
@@ -188,7 +188,7 @@ git push origin main
 
 ---
 
-## **🛠️ Step 7: Add **``** to Keep Repo Clean**
+## **🛠️ Step 7: Add `.gitignore` to Keep Repo Clean**
 
 ```bash
 touch .gitignore
@@ -235,11 +235,13 @@ git push origin main
 
 ## **🔎 Step 8: Recap Before Downloading Data**
 
-At this point, we have: ✅ **A structured GitHub repo with a Jekyll blog**\
-✅ **A Jupyter Notebook setup for bioinformatics analysis**\
-✅ **A Conda environment with all necessary packages**\
-✅ **A draft research paper (**``**) ready to be updated manually**
+At this point, we have:
+✅ **A structured GitHub repo with a Jekyll blog**  
+✅ **A Jupyter Notebook setup for bioinformatics analysis**  
+✅ **A Conda environment with all necessary packages**  
+✅ **A draft research paper (`_posts/research-paper.md`) ready to be updated manually**  
 
 ---
 
 # **🚀 Next: Download ICGC/PCAWG Whole-Genome + RNA Expression Data**
+
